@@ -99,8 +99,8 @@ def parse_circle(values):
 
 def parse_triangle(values):
     p1_index = values.index("Point1") + 1
-    p2_index = values.index("Point2") + 2
-    p3_index = values.index("Point3") + 3
+    p2_index = values.index("Point2") + 1
+    p3_index = values.index("Point3") + 1
 
     x1, y1 = float(values[p1_index]), float(values[p1_index + 1])
     x2, y2 = float(values[p2_index]), float(values[p2_index + 1])
