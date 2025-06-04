@@ -63,7 +63,3 @@ Enter `shapes.txt` when asked for filename.
 ## Implementation Notes
 - The script uses an abstract base class `Figure` and subclasses for each shape.
 - Uses the factory pattern to instantiate shapes from input strings.
-- Handles invalid lines gracefully with error messages.
-
-## License
-This project is provided under the MIT License.
