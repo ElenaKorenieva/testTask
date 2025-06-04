@@ -1,0 +1,4 @@
+Square TopRight 1 1 Side 2
+Circle Center 0 0 Radius 3
+Rectangle TopRight 4 5 BottomLeft 1 1
+Triangle Point1 0 0 Point2 4 0 Point3 0 3
